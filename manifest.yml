@@ -6,3 +6,4 @@ services:
   - testpcfdb
 env:
   spring_jpa_hibernate_ddl-auto: update
+  my_test: hello-world
